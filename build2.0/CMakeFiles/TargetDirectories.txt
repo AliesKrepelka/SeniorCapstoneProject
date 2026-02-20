@@ -1,0 +1,6 @@
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/CMakeFiles/utgraphicsutil.dir
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/CMakeFiles/edit_cache.dir
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/CMakeFiles/rebuild_cache.dir
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/src/CMakeFiles/menger.dir
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/src/CMakeFiles/edit_cache.dir
+C:/Users/Alies Krepelka/Downloads/menger-sponge-master/build2.0/src/CMakeFiles/rebuild_cache.dir
