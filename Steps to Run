@@ -1,0 +1,21 @@
+Install packages on mingw
+
+Navigate to the project folder (EX:cd "/c/Users/YourName/path/to/menger-sponge-master")
+
+Build:
+mkdir build
+cd build
+cmake .. -G "MinGW Makefiles" -DCMAKE_POLICY_VERSION_MINIMUM=3.5 -DCMAKE_CXX_FLAGS="-DGLM_ENABLE_EXPERIMENTAL"
+mingw32-make -j8
+
+copy dlls to bin 
+cp /mingw64/bin/glfw3.dll bin/
+cp /mingw64/bin/glew32.dll bin/
+cp libutgraphicsutil.dll bin/
+cp /mingw64/bin/libstdc++-6.dll bin/
+cp /mingw64/bin/libgcc_s_seh-1.dll bin/
+cp /mingw64/bin/libwinpthread-1.dll bin/
+
+RUN
+cd bin
+./menger.exe
